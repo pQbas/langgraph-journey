@@ -42,6 +42,7 @@ print(result)
 
 while True:
     user_input = input(">> ")
+
     if user_input.lower() in ["quit", "exit", "q"]:
         print("Goodbye!")
         break

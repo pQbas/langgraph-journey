@@ -1,7 +1,3 @@
-'''
-Ejemplo donde vamos a agregar un tool que nos va apermitir realizar sumas
-'''
-
 from typing_extensions import TypedDict
 from typing import Annotated
 from langgraph.graph.message import add_messages
