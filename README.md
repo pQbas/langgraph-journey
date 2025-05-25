@@ -7,7 +7,8 @@ Set of examples developed in langgraph to learn more about this library.
 
 
 ```
-The GraphState will be created with a TypeDict and have a single entry point and an edge to the end node.
+The GraphState will be created with a TypeDict and have a single entry point and an edge
+to the end node.
 
 It will consist of a single key "count" with an initial value of 0.
 
