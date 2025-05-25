@@ -2,21 +2,20 @@
 
 Set of examples developed in langgraph to learn more about this library.
 
+<details>
+  <summary> Example 1 : States and Nodes</summary>
 
-## Example 1
+    The GraphState will be created with a TypeDict and have a single entry point and an edge
+    to the end node.
 
+    It will consist of a single key "count" with an initial value of 0.
 
-```
-The GraphState will be created with a TypeDict and have a single entry point and an edge
-to the end node.
+    The Developer node will increment the count by 1 and return the state.
 
-It will consist of a single key "count" with an initial value of 0.
+    We will add memory to the graph to save the state of the graph.
 
-The Developer node will increment the count by 1 and return the state.
+    Then, we will create a visualization of the graph.
 
-We will add memory to the graph to save the state of the graph.
+    Finally, we will run the graph and print the result.
 
-Then, we will create a visualization of the graph.
-
-Finally, we will run the graph and print the result.
-```
+</details>
