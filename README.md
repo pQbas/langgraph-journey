@@ -9,7 +9,7 @@ Set of examples developed in langgraph to learn more about this library
 
 [Example 2](https://github.com/pQbas/langgraph-journey/tree/main/example02)
   - Create a Fibonacci node that adds a new fibonacci number to the state
-  - `[0]` -> `[0, 1]` -> `[0, 1, 1]` -> `[0, 1, 1, 2]`  
+  - `[0]` $\rightarrow$ `[0, 1]` $\rightarrow$ `[0, 1, 1]` $\rightarrow$ `[0, 1, 1, 2]`  
 
 [Example 3](https://github.com/pQbas/langgraph-journey/tree/main/example03)
 - Create an AdderNode that cumulatively adds a new number to the state
