@@ -1,4 +1,4 @@
-<details> <summary> <strong> Example 1: States and Nodes </strong> </summary> <br/>
+**Example 1: States and Nodes**
 
 This example demonstrates a simple graph execution using a `GraphState` and a single `Developer` node.
 
@@ -11,5 +11,3 @@ Memory is added to the graph to persist the state between executions.
 A visualization of the graph is generated to illustrate its structure.
 
 Finally, the graph is executed, and the resulting "count" value is printed.
-
-</details>
