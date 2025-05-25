@@ -2,7 +2,7 @@
 
 Set of examples developed in langgraph to learn more about this library.
 
-<details> <summary> Example 1 : States and Nodes</summary>
+<details> <summary> Example 1 : States and Nodes</summary> <br/>
 
 This example demonstrates a simple graph execution using a `GraphState` and a single `Developer` node.
 
