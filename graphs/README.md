@@ -71,7 +71,6 @@ def build_graph():
 
 
 **Resources**
-
-https://langchain-ai.github.io/langgraph/concepts/low_level/#graphs
-https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph
-https://langchain-ai.github.io/langgraph/concepts/low_level/#state
+1. https://langchain-ai.github.io/langgraph/concepts/low_level/#graphs
+2. https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph
+3. https://langchain-ai.github.io/langgraph/concepts/low_level/#state
