@@ -7,7 +7,7 @@
 
 <div align="center">
 
-`count` : `0` $\rightarrow$ `1` $\rightarrow$ `2` $\rightarrow$ `3` $\rightarrow$ `4` $\rightarrow$$\dots$
+`count` : `0` $\rightarrow$ `1` $\rightarrow$ `2` $\rightarrow$ `3` $\rightarrow$ `4` $\rightarrow$ $\dots$
 
 </div>
 
