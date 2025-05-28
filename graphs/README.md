@@ -1,4 +1,4 @@
-**Example 1: States and Nodes**
+# Graphs
 
 **Problem statement**
 
