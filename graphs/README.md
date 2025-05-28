@@ -68,3 +68,10 @@ def build_graph():
 
     return graph
 ```
+
+
+**Resources**
+
+https://langchain-ai.github.io/langgraph/concepts/low_level/#graphs
+https://langchain-ai.github.io/langgraph/concepts/low_level/#stategraph
+https://langchain-ai.github.io/langgraph/concepts/low_level/#state
